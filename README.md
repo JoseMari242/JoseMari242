@@ -23,6 +23,9 @@ I consider myself a friendly person who relies on the team to bring out the best
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </a>
@@ -38,6 +41,9 @@ I consider myself a friendly person who relies on the team to bring out the best
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    </a>
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
     </a>
@@ -45,6 +51,8 @@ I consider myself a friendly person who relies on the team to bring out the best
         <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
     </a>
 </p>
+
+
 
 <h3>Backend:</h3>
 <p>
@@ -56,6 +64,9 @@ I consider myself a friendly person who relies on the team to bring out the best
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     </a>
     <a href="https://www.prisma.io/" target="_blank">
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
