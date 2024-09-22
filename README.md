@@ -2,7 +2,7 @@
                          
 <h2>🚀 About Me</h2>
 <p>My interest in new technologies has led me to radically change sectors, and as a result, I have trained in software development over the past year.
-I have completed the projects mentioned using HTML, CSS, and TypeScript, among other technologies.
+I have completed the projects mentioned using HTML, CSS, TypeScript, React, Next, Node, among other technologies. I am also learning Python, Django, and artificial intelligence.
 I consider myself a friendly person who relies on the team to bring out the best in everyone.</p>
 
 <h2>🌐 Connect with me:</h2>
